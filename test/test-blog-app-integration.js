@@ -185,8 +185,5 @@ describe('Blog API resources', function() {
                         });
                 });
         });
-
     });
-
-
 }); 

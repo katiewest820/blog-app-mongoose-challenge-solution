@@ -141,11 +141,12 @@ function closeServer() {
   return mongoose.disconnect().then(() => {
      return new Promise((resolve, reject) => {
        console.log('Closing server');
-       server.close(err => {
-           if (err) {
-               return reject(err);
-           }
-           resolve();
+       server.close(function(err) {
+          process.exit(0)
+           //if (err) {
+             //  return reject(err);
+           //}
+           //resolve();
        });
      });
   });

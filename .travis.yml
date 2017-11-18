@@ -6,6 +6,6 @@ deploy:
   provider: heroku
   api_key:
     secure: mH5oishm8uXh8aWZRU/MQ++kHif6PkppQWRxKbkKie966AydTFffPZhTsrYrLU09z+nuaA1SeWEi65wBsliJYkw9EJMjyz2cWNqq9IkP8jC5B3TosqZZCgsrED00dqZfa/Hg8XNJdbAqjlirQ7uqXsKL3C4r2WZzI6ArhKOBf29lK9yW44TBe5iOkoYWosTMK3uV2PKg+XNl7Gt8+VBQzyKpqN3ycN8p7aEnamxKRLe/6Ht3VojmxWTX/4DzMobsNTMsup8yzVGZNDjUQCDRW0K90p51mbxRyMpZAoEAOjf86Dj7r79Jfgiwfv+jjTZRGyVa+5LyCgLUKhFEIMj7//IdFbNVrKeg74981snYxOle+lnkh4N8sjUqJu4SbXbkHm8zaCUbd1IzNamhWv+Fp8tB3wjoCAvt8FQlllvA0h/vKQy0Dge7ZOuZfBFhl+CAnTkA0P3E9PKn37CuDHMxOpRmxkIUWSTwKh7xGv0NMmxuPEhZwWSVo7/3FVcudLidxRJEDW6WVd4NwXySKzTi5s797P9E+9TEjzx8RX97lNvkUTd1xlWT17jDemRxKy0Ll85ys8w2VAV0ZXwZA+YvAjsFALBrY3rtrV8Q1fKFeancLVTUUPjrx27EgIONowND3AKw2pXLkglcqq/QDKR7bGbO7YpWPN++xfRLWXhmBX4=
-  app: blog-app-mongoose-challenge-solution
+  app: pure-coast-65335
   on:
     repo: katiewest820/blog-app-mongoose-challenge-solution
